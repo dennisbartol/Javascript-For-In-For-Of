@@ -99,3 +99,5 @@ for (const key in obj) {
     console.log(obj[key]); // Prints: 1, 2, 3
 }
 </code>
+
+In summary, the `for...of` loop is used to iterate over values of iterable objects, while the `for...in` loop is used to iterate over keys or property names of objects, including inherited ones. It's essential to choose the appropriate loop based on what you're iterating over and what you need to access during iteration.
