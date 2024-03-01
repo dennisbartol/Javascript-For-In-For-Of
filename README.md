@@ -4,3 +4,6 @@ In JavaScript, the `for...of` loop is used to iterate over iterable objects such
 
 
 <b>Here's the basic syntax of the for...of loop:</b></br>
+`for (variable of iterable) {
+    // code block to be executed
+}`
