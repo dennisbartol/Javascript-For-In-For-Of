@@ -48,6 +48,11 @@ for (const [key, value] of map) {
 </code>
 
 
+Aanvullen: </br>
+Iterate definition</br>
+differences for-in / for-of</br>
+
+
 In this example, each iteration provides both the key and value of each entry in the map.
 
 Overall, the `for...of` loop simplifies iteration over iterable objects by directly accessing their values without needing to deal with indexes or keys explicitly.
