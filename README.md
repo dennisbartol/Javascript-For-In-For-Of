@@ -78,8 +78,7 @@ The `for...of` and `for...in` loops in JavaScript are both used for iteration, b
 3. Iterates over the values directly, making it ideal when you are interested in the values themselves.</br>
 4. Introduced in ECMAScript 6 (ES6).</br>
 
-<code>
-const arr = [1, 2, 3];
+<code>const arr = [1, 2, 3];
 
 for (const element of arr) {
     console.log(element); // Prints: 1, 2, 3
