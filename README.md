@@ -31,3 +31,7 @@ for (const char of str) {
     console.log(char);
 }
 </code>
+
+This will iterate over each character of the string `str`.
+
+The `for...of` loop can also be used with other iterable objects like maps and sets. Here's an example with a Map:
