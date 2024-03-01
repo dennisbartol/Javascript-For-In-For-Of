@@ -35,3 +35,19 @@ for (const char of str) {
 This will iterate over each character of the string `str`.
 
 The `for...of` loop can also be used with other iterable objects like maps and sets. Here's an example with a Map:
+<code>
+const map = new Map([
+    ['a', 1],
+    ['b', 2],
+    ['c', 3]
+]);
+
+for (const [key, value] of map) {
+    console.log(key, value);
+}
+</code>
+
+
+In this example, each iteration provides both the key and value of each entry in the map.
+
+Overall, the `for...of` loop simplifies iteration over iterable objects by directly accessing their values without needing to deal with indexes or keys explicitly.
