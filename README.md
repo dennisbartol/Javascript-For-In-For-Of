@@ -80,8 +80,9 @@ The `for...of` and `for...in` loops in JavaScript are both used for iteration, b
 
 <code>
 const arr = [1, 2, 3];
-
+<p>
 for (const element of arr) {
     console.log(element); // Prints: 1, 2, 3
 }
+</p>
 </code>
