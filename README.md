@@ -19,3 +19,15 @@ for (const element of arr) {
     console.log(element);
 }
 </code>
+
+
+In this example, `element` represents the current element of the array `arr` in each iteration of the loop.
+
+You can also use the `for...of` loop with strings:
+<code>
+const str = 'hello';
+
+for (const char of str) {
+    console.log(char);
+}
+</code>
