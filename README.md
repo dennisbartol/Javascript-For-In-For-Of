@@ -4,7 +4,7 @@ In JavaScript, the `for...of` loop is used to iterate over iterable objects such
 
 
 <b>Here's the basic syntax of the for...of loop:</b></br>
-<code>for (variable of iterable) {
+<code>for (<i>variable</i> of <i>iterable</i>) {
     // code block to be executed</br>
 }</code>
 
