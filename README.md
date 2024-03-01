@@ -72,8 +72,8 @@ You might ask yourself - What is the difference between a `for-of` and `for-in` 
 
 The `for...of` and `for...in` loops in JavaScript are both used for iteration, but they have different purposes and behaviors:
 
-for...of loop:
-Used to iterate over the values of an iterable object, such as arrays, strings, maps, sets, etc.
-Provides a simpler syntax for iterating over iterable objects without the need to deal with indices or keys explicitly.
-Iterates over the values directly, making it ideal when you are interested in the values themselves.
-Introduced in ECMAScript 6 (ES6).
+<b>for...of loop:</b></br>
+Used to iterate over the values of an iterable object, such as arrays, strings, maps, sets, etc.</br>
+Provides a simpler syntax for iterating over iterable objects without the need to deal with indices or keys explicitly.</br>
+Iterates over the values directly, making it ideal when you are interested in the values themselves.</br>
+Introduced in ECMAScript 6 (ES6).</br>
