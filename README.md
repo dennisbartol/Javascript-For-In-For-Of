@@ -54,7 +54,7 @@ Overall, the `for...of` loop simplifies iteration over iterable objects by direc
 
 <i>
 Aanvullen: </br>
-Iterate definition</br>
+Iterate definition</br> ✅
 differences for-in / for-of</br>
 </i>
 
