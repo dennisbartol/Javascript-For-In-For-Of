@@ -88,8 +88,8 @@ for (const element of arr) {
 <b>for...in loop:</b></br>
 1. Used to iterate over the enumerable properties of an object, including properties inherited from its prototype chain.</br>
 2. Iterates over the keys or property names of an object, rather than the values.</br>
-3. Generally used for iterating over plain objects (objects created with {}) to access their properties.</br>
-4. It's important to note that for...in loop iterates over all enumerable properties, including those inherited from the prototype chain. This behavior can lead to unexpected results if not used carefully.</br>
+3. Generally used for iterating over plain objects (objects created with `{}`) to access their properties.</br>
+4. It's important to note that `for...in` loop iterates over all enumerable properties, including those inherited from the prototype chain. This behavior can lead to unexpected results if not used carefully.</br>
 
 <code>
 const obj = { a: 1, b: 2, c: 3 };
