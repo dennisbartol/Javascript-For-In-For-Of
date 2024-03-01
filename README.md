@@ -86,7 +86,7 @@ for (const element of arr) {
 }
 </code>
 
-<b>for...in loop:</b>
+<b>for...in loop:</b></br>
 Used to iterate over the enumerable properties of an object, including properties inherited from its prototype chain.</br>
 Iterates over the keys or property names of an object, rather than the values.</br>
 Generally used for iterating over plain objects (objects created with {}) to access their properties.</br>
